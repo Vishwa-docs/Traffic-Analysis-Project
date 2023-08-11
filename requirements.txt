@@ -1,0 +1,9 @@
+imageio
+imageio-ffmpeg
+av
+tensorflow
+pillow
+opencv-contrib-python
+tkinter
+numpy==1.2.0
+scipy

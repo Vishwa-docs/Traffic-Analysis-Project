@@ -1,0 +1,29 @@
+Mini Project : 
+	https://techvidvan.com/tutorials/opencv-vehicle-detection-classification-counting/
+	https://www.youtube.com/watch?v=T588klKBPNo : Real Time object tracker
+	traffic sign detection
+	https://www.youtube.com/watch?v=PxHkKLUk_QM : Signal violation detection system
+	https://www.geeksforgeeks.org/python-program-extract-frames-using-opencv/
+	https://www.geeksforgeeks.org/opencv-python-program-vehicle-detection-video-frame/
+	https://www.kaggle.com/datasets/aryashah2k/highway-traffic-videos-dataset
+
+
+
+
+	https://github.com/ultralytics/yolov5
+	https://github.com/Sentdex/nnfs/blob/master/nnfs/datasets/spiral.py
+	https://www.youtube.com/watch?v=6kZftXunlTY
+	https://www.youtube.com/results?search_query=traffic+detection+project
+	https://github.com/search?q=road+traffic+analysis&ref=simplesearch
+	traffic analysis via video footage
+	https://pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+	https://stackoverflow.com/questions/46572738/opencv-cv2-videocapture-successful-but-isopen-fails-right-after
+	https://www.futurelearn.com/info/courses/introduction-to-image-analysis-for-plant-phenotyping/0/steps/305359
+	https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html#:~:text=cv.destroyAllWindows()-,cap.,by%20checking%20this%20returned%20value.
+	https://stackoverflow.com/questions/39953263/get-video-dimension-in-python-opencv
+	https://stackoverflow.com/questions/67737650/cv2-error-opencv4-5-2-resize-cpp4051-error-215assertion-failed-ssize
+	https://stackoverflow.com/questions/32978575/how-to-fix-indexerror-invalid-index-to-scalar-variable
+	live traffic video data for image classification
+	https://pypi.org/project/opencv-contrib-python/
+
+https://www.kaggle.com/code/valentynsichkar/traffic-signs-classification-with-cnn/notebook
